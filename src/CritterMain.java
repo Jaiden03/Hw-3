@@ -18,6 +18,9 @@ public class CritterMain {
 
         frame.add(30, FlyTrap.class);
         frame.add(30, Food.class);
+        frame.add(30, Bird.class);
+        frame.add(30, Frog.class);
+        frame.add(30, Mouse.class);
 
         frame.start();
     }
