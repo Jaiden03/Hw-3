@@ -21,6 +21,10 @@ public class CritterMain {
         frame.add(30, Bird.class);
         frame.add(30, Frog.class);
         frame.add(30, Mouse.class);
+        frame.add(30, Rabbit.class);
+        frame.add(30, Snake.class);
+        frame.add(30,Turtle.class);
+        frame.add(30, Wolf.class);
 
         frame.start();
     }
